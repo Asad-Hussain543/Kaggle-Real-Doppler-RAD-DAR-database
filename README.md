@@ -57,20 +57,5 @@ pip install transformers timm torchview numpy pandas matplotlib seaborn scikit-l
 ## Contributions
 Contributions are welcome! Feel free to fork this repository and submit pull requests with improvements.
 
-## License
-This project is licensed under the MIT License.
 
-## Citation
-If you use this work, please cite the original dataset:
-```
-@dataset{KaggleRadar202X,
-  author = {Kaggle Contributors},
-  title = {Real Doppler RADAR Database},
-  year = {202X},
-  url = {https://www.kaggle.com/}
-}
-```
-
-## Contact
-For any questions or feedback, reach out via [GitHub Issues](https://github.com/yourusername/Kaggle_Radar_Analysis/issues).
 
